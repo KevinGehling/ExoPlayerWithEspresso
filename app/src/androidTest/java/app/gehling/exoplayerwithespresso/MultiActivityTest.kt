@@ -11,10 +11,10 @@ import org.junit.Test
 import org.junit.runner.RunWith
 
 @RunWith(AndroidJUnit4::class)
-class ExampleInstrumentedTest {
+class MultiActivityTest {
 
     @get:Rule
-    val composeTestRule = createAndroidComposeRule<Main2Activity>()
+    val composeTestRule = createAndroidComposeRule<MainActivity>()
 
     @OptIn(ExperimentalTestApi::class)
     @Test

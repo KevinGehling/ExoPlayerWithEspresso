@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun launchSecondActivity() {
-        val intent = Intent(this@MainActivity, Main2Activity::class.java)
+        val intent = Intent(this@MainActivity, PlayerActivity::class.java)
         startActivity(intent)
     }
 }

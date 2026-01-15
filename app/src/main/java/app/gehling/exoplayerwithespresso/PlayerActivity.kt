@@ -12,7 +12,7 @@ import androidx.compose.material3.Text
 import androidx.compose.ui.Modifier
 import app.gehling.exoplayerwithespresso.ui.theme.ExoPlayerWithEspressoTheme
 
-class Main2Activity : ComponentActivity() {
+class PlayerActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
