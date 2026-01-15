@@ -1,4 +1,4 @@
-package app.gehling.expplayerwithespresso
+package app.gehling.exoplayerwithespresso
 
 import org.junit.Test
 

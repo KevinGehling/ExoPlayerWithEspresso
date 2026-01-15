@@ -1,4 +1,4 @@
-package app.gehling.expplayerwithespresso
+package app.gehling.exoplayerwithespresso
 
 import androidx.compose.ui.test.ExperimentalTestApi
 import androidx.compose.ui.test.hasText

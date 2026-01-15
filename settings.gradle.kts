@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ExpPlayerWithEspresso"
+rootProject.name = "ExoPlayerWithEspresso"
 include(":app")
  

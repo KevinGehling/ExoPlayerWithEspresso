@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "app.gehling.expplayerwithespresso"
+    namespace = "app.gehling.exoplayerwithespresso"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "app.gehling.expplayerwithespresso"
+        applicationId = "app.gehling.exoplayerwithespresso"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
